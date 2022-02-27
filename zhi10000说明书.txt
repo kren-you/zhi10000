@@ -1,0 +1,50 @@
+﻿zhi10000系统-产品说明书（中文）
+
+zhi10000系统是支持中文、英文（6.0之后）的质数演算系统，自2020年7月起研发，至今共有2.0，2.5，3.0，3.5，4.0，4.2，4.5，5.0，6.0，7.0十个版本问世。
+
+各版本简介
+zhi10000（1.0）：内测版，未面世
+zhi10000（2.0）：可以计算1至输入数据之间的质数（含1)
+zhi10000（2.5）：可以计算1至输入数据之间的质数（含1)，和1至输入数据之间的质数（含1)的个数
+zhi10000（3.0）：可以计算两个输入数据之间的质数（不含1)，和两个输入数据之间的质数（不含1)的个数
+zhi10000（3.5）：相比于以前版本提高了计算速度
+zhi10000（4.0）：相比于以前版本提高了计算速度
+zhi10000（4.2）：相比于以前版本，可以在屏幕上显示更多的质数了
+zhi10000（4.5）：系统中可以显示产品功能了
+zhi10000（5.0）：可以体验以前版本的所有功能
+zhi10000（6.0）：支持英文版
+zhi10000（7.0）：相比于以前版本提高了计算速度（支持英文版）
+——————————————————————————————————————————————————————————
+Zhi10000 system - Product Manual（ENGLISH）
+
+Zhi10000 system is a prime number calculus system that supports Chinese and English (after 6.0). It has been developed since July 2020.So far, en versions of 2.0, 2.5, 3.0, 3.5, 4.0, 4.2, 4.5, 5.0, 6.0 and 7.0 have been published.
+
+Introduction to each version
+Zhi10000 (1.0): beta version, not available
+Zhi10000 (2.0): can calculate the prime number between 1 and input data (including 1)
+Zhi10000 (2.5): you can calculate the number of prime numbers (including 1) between 1 and input data, and the number of prime numbers (including 1) between 1 and input data
+Zhi10000 (3.0): you can calculate the number of prime numbers (excluding 1) between two input data and the number of prime numbers (excluding 1) between two input data
+Zhi10000 (3.5): faster than previous versions
+Zhi10000 (4.0): faster than previous versions
+Zhi10000 (4.2): compared with the previous version, it can display more prime numbers on the screen
+Zhi10000 (4.5): product functions can be displayed in the system
+Zhi10000 (5.0): you can experience all the functions of previous versions
+Zhi10000 (6.0): support English version
+Zhi10000 (7.0): added the function of calculating the nth prime number
+——————————————————————————————————————————————————————————
+Système zhi10000 - Fiche technique（FRENCH）
+
+Le système zhi10000 est un système de calcul de nombres premiers qui prend en charge le chinois et l'anglais (après 6.0). Il a été développé depuis juillet 2020. Jusqu'à présent, il y a 10 versions de 2.0, 2.5, 3.0, 3.5, 4.0, 4.2, 4.5, 5.0, 6.0 et 7.0.
+
+Introduction à chaque version
+Zhi10000 (1.0): version bêta interne, non disponible
+Zhi10000 (2.0): Vous pouvez calculer les nombres premiers (y compris 1) entre 1 et les données d'entrée
+Zhi10000 (2.5): Vous pouvez calculer le nombre de nombres premiers (y compris 1) entre 1 et les données d'entrée, et le nombre de nombres premiers (y compris 1) entre 1 et les données d'entrée
+Zhi10000 (3.0): Vous pouvez calculer le nombre de nombres premiers (à l'exclusion de 1) entre deux données d'entrée et le nombre de nombres premiers (à l'exclusion de 1) entre deux données d'entrée
+Zhi10000 (3.5): accélération du calcul par rapport aux versions précédentes
+Zhi10000 (4.0): accélération du calcul par rapport aux versions précédentes
+Zhi10000 (4.2): plus de nombres premiers peuvent être affichés à l'écran que dans les versions précédentes
+Zhi10000 (4.5): la fonctionnalité du produit peut être affichée dans le système
+Zhi10000 (5.0): Vous pouvez expérimenter toutes les fonctionnalités des versions précédentes
+Zhi10000 (6.0): prise en charge de la version anglaise
+Zhi10000 (7.0): ajout d'une nouvelle fonction de calcul du nombre premier n (prise en charge de la version anglaise)
